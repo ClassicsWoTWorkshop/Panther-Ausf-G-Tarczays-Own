@@ -1,0 +1,1 @@
+Major optimization update: merged all equipment into 1 material set; added LoDs, including custom lod1-4 models for turret_02; separated Turret_01 and Turret_02 AO textures + updated AO for Turret_02 equipment; disabled camouflage paint; removed Panther/M10 version
